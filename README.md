@@ -43,8 +43,8 @@ To Analyse the Hotel and the Reviews Data, use the following code:
   B. This code analyses the features of the hotel data, to apply a multiple linear regression model for price prediction. 
   
 4. To perform the sentiment analysis - 
-  1. Run the cells from Code/Sentiment_Analysis.ipynb
-  2. Run celss 4-9 to load all json files by changing the name of json file in cell 4 and csv file in cell 9.
-  3. Merge all csv files into a single file 'scrapping_data_final.csv' and then continue running the cells from cell 10.
-  4. You should be able to clean the data, run models and visualize the results from models.
+  A. Run the cells from Code/Sentiment_Analysis.ipynb
+  B. Run celss 4-9 to load all json files by changing the name of json file in cell 4 and csv file in cell 9.
+  C. Merge all csv files into a single file 'scrapping_data_final.csv' and then continue running the cells from cell 10.
+  D. You should be able to clean the data, run models and visualize the results from models.
 
